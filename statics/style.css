@@ -17,3 +17,7 @@ body {
 .imgcentral{
     width: 100px;
 }
+#visit-counter {
+    font-size: 20px;
+    margin-top: 20px;
+}

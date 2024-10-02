@@ -1,4 +1,4 @@
-const secretKey = 'claveSecreta123'; -> Esta clave ha de cambiarse
+const secretKey = 'claveSecreta123'; <!-- <p>Esta_clave_ha_de_cambiarse </p>-->
 
 
         // Función para establecer una cookie cifrada
